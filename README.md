@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Me chamo Felipe, tenho 21 anos e sou um grande entusiasta de hardware e bacharelando em Ciência da Computação. Atualmente, estou me aprimorando como desenvolvedor de software. Crio projetos voltados a área de TI desde meus 10 anos, participei de diversas aulas práticas e campeonatos de robótica. Nesse longo caminho eu adquiri diversas habilidades como trabalhar bem e liderar equipes.</p>
+<p align="left">Me chamo Felipe, tenho 21 anos e sou um grande entusiasta de hardware e bacharelando em Ciência da Computação. Atualmente, estou me aprimorando como desenvolvedor de software. Crio projetos voltados a área de TI desde meus 10 anos, participei de diversas aulas práticas e projetos de robótica. Nesse longo caminho eu adquiri diversas habilidades como trabalhar bem e liderar equipes.</p>
 
 ###
 
